@@ -60,5 +60,6 @@ a:link{
 	color:#fdb413;
 }
 img{
-	float:left
+	float:left;
+	margin-right: 10px;
 }
