@@ -5,7 +5,6 @@ body{
 	margin:100px;
 	background-image:url(https://images3.alphacoders.com/762/76275.jpg);
 	background-attachment:fixed;
-	max-width: 800px
 }
 
 .page {
@@ -14,6 +13,7 @@ body{
 	border-radius: 15px;
 	background-color: white;
 	overflow: hidden;
+	max-width: 800px
 }
 
 .main-nav{
